@@ -1,0 +1,6 @@
+# Gray
+Gray-Cool-Five   : #889197
+
+# Blue
+Blue-Dark       : #15212e
+
